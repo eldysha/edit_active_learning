@@ -1,0 +1,946 @@
+Rank,Brand,Brand__URI,Value,Industry,Industry__URI,Label lookup,Label ok
+1,Microsoft,http://dbpedia.org/resource/Microsoft,62039,Software,http://dbpedia.org/resource/Software,1,0
+2,Microsoft,http://dbpedia.org/resource/Microsoft,62040,Software,http://dbpedia.org/resource/Software,0,1
+3,Microsoft,http://dbpedia.org/resource/Microsoft,62041,Software,http://dbpedia.org/resource/Software,0,0
+4,Microsoft,http://dbpedia.org/resource/Microsoft,62042,Software,http://dbpedia.org/resource/Software,0,0
+5,Microsoft,http://dbpedia.org/resource/Microsoft,62043,Software,http://dbpedia.org/resource/Software,0,0
+6,Microsoft,http://dbpedia.org/resource/Microsoft,62044,Software,http://dbpedia.org/resource/Software,0,0
+7,Microsoft,http://dbpedia.org/resource/Microsoft,62045,Software,http://dbpedia.org/resource/Software,0,0
+8,Microsoft,http://dbpedia.org/resource/Microsoft,62046,Software,http://dbpedia.org/resource/Software,0,0
+9,Microsoft,http://dbpedia.org/resource/Microsoft,62047,Software,http://dbpedia.org/resource/Software,0,0
+10,Microsoft,http://dbpedia.org/resource/Microsoft,62048,Software,http://dbpedia.org/resource/Software,0,0
+2,GE,http://dbpedia.org/resource/General_Electric,55834,Technology,http://dbpedia.org/resource/Technology,1,0
+3,GE,http://dbpedia.org/resource/General_Electric,55835,Technology,http://dbpedia.org/resource/Technology,0,0
+4,GE,http://dbpedia.org/resource/General_Electric,55836,Technology,http://dbpedia.org/resource/Technology,0,0
+5,GE,http://dbpedia.org/resource/General_Electric,55837,Technology,http://dbpedia.org/resource/Technology,0,0
+6,GE,http://dbpedia.org/resource/General_Electric,55838,Technology,http://dbpedia.org/resource/Technology,0,0
+7,GE,http://dbpedia.org/resource/General_Electric,55839,Technology,http://dbpedia.org/resource/Technology,0,0
+8,GE,http://dbpedia.org/resource/General_Electric,55840,Technology,http://dbpedia.org/resource/Technology,0,0
+9,GE,http://dbpedia.org/resource/General_Electric,55841,Technology,http://dbpedia.org/resource/Technology,0,0
+10,GE,http://dbpedia.org/resource/General_Electric,55842,Technology,http://dbpedia.org/resource/Technology,0,0
+11,GE,http://dbpedia.org/resource/General_Electric,55843,Technology,http://dbpedia.org/resource/Technology,0,0
+3,Coca-Cola,http://dbpedia.org/resource/The_Coca-Cola_Company,41406,F&D&T,,1,0
+4,China Mobile,http://dbpedia.org/resource/China_Mobile,39168,Telecom,http://dbpedia.org/resource/Telecommunication,1,1
+5,China Mobile,http://dbpedia.org/resource/China_Mobile,39169,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+6,China Mobile,http://dbpedia.org/resource/China_Mobile,39170,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+7,China Mobile,http://dbpedia.org/resource/China_Mobile,39171,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+8,China Mobile,http://dbpedia.org/resource/China_Mobile,39172,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+9,China Mobile,http://dbpedia.org/resource/China_Mobile,39173,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+10,China Mobile,http://dbpedia.org/resource/China_Mobile,39174,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+11,China Mobile,http://dbpedia.org/resource/China_Mobile,39175,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+12,China Mobile,http://dbpedia.org/resource/China_Mobile,39176,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+13,China Mobile,http://dbpedia.org/resource/China_Mobile,39177,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+14,China Mobile,http://dbpedia.org/resource/China_Mobile,39178,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+5,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38510,F&D&T,,1,0
+6,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38511,F&D&T,,0,0
+7,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38512,F&D&T,,0,0
+8,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38513,F&D&T,,0,0
+9,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38514,F&D&T,,0,0
+10,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38515,F&D&T,,0,0
+11,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38516,F&D&T,,0,0
+12,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38517,F&D&T,,0,1
+13,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38518,F&D&T,,0,0
+14,Marlboro,http://dbpedia.org/resource/Marlboro_(cigarette),38519,F&D&T,,0,0
+7,Google,http://dbpedia.org/resource/Google,37445,Software,http://dbpedia.org/resource/Software,1,0
+8,Google,http://dbpedia.org/resource/Google,37446,Software,http://dbpedia.org/resource/Software,0,0
+9,Google,http://dbpedia.org/resource/Google,37447,Software,http://dbpedia.org/resource/Software,0,1
+10,Google,http://dbpedia.org/resource/Google,37448,Software,http://dbpedia.org/resource/Software,0,0
+11,Google,http://dbpedia.org/resource/Google,37449,Software,http://dbpedia.org/resource/Software,0,0
+12,Google,http://dbpedia.org/resource/Google,37450,Software,http://dbpedia.org/resource/Software,0,0
+13,Google,http://dbpedia.org/resource/Google,37451,Software,http://dbpedia.org/resource/Software,0,0
+14,Google,http://dbpedia.org/resource/Google,37452,Software,http://dbpedia.org/resource/Software,0,0
+15,Google,http://dbpedia.org/resource/Google,37453,Software,http://dbpedia.org/resource/Software,0,0
+16,Google,http://dbpedia.org/resource/Google,37454,Software,http://dbpedia.org/resource/Software,0,0
+8,IBM,http://dbpedia.org/resource/IBM,36084,Software,http://dbpedia.org/resource/Software,1,1
+9,IBM,http://dbpedia.org/resource/IBM,36085,Software,http://dbpedia.org/resource/Software,0,0
+10,IBM,http://dbpedia.org/resource/IBM,36086,Software,http://dbpedia.org/resource/Software,0,0
+11,IBM,http://dbpedia.org/resource/IBM,36087,Software,http://dbpedia.org/resource/Software,0,0
+12,IBM,http://dbpedia.org/resource/IBM,36088,Software,http://dbpedia.org/resource/Software,0,0
+13,IBM,http://dbpedia.org/resource/IBM,36089,Software,http://dbpedia.org/resource/Software,0,0
+14,IBM,http://dbpedia.org/resource/IBM,36090,Software,http://dbpedia.org/resource/Software,0,0
+15,IBM,http://dbpedia.org/resource/IBM,36091,Software,http://dbpedia.org/resource/Software,0,0
+16,IBM,http://dbpedia.org/resource/IBM,36092,Software,http://dbpedia.org/resource/Software,0,0
+17,IBM,http://dbpedia.org/resource/IBM,36093,Software,http://dbpedia.org/resource/Software,0,0
+9,Citibank,http://dbpedia.org/resource/Citibank,31028,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+10,Citibank,http://dbpedia.org/resource/Citibank,31029,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+11,Citibank,http://dbpedia.org/resource/Citibank,31030,Bank,http://dbpedia.org/resource/Banking_industry,0,1
+12,Citibank,http://dbpedia.org/resource/Citibank,31031,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+13,Citibank,http://dbpedia.org/resource/Citibank,31032,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+14,Citibank,http://dbpedia.org/resource/Citibank,31033,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+15,Citibank,http://dbpedia.org/resource/Citibank,31034,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+16,Citibank,http://dbpedia.org/resource/Citibank,31035,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+17,Citibank,http://dbpedia.org/resource/Citibank,31036,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+18,Citibank,http://dbpedia.org/resource/Citibank,31037,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+10,Toyota,http://dbpedia.org/resource/Toyota,30201,Cars,http://dbpedia.org/resource/Automotive_industry,1,1
+11,Toyota,http://dbpedia.org/resource/Toyota,30202,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+12,Toyota,http://dbpedia.org/resource/Toyota,30203,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+13,Toyota,http://dbpedia.org/resource/Toyota,30204,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+14,Toyota,http://dbpedia.org/resource/Toyota,30205,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+15,Toyota,http://dbpedia.org/resource/Toyota,30206,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+16,Toyota,http://dbpedia.org/resource/Toyota,30207,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+17,Toyota,http://dbpedia.org/resource/Toyota,30208,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+18,Toyota,http://dbpedia.org/resource/Toyota,30209,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+19,Toyota,http://dbpedia.org/resource/Toyota,30210,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+11,McDonald's,http://dbpedia.org/resource/McDonald's,28985,F&D&T,,1,1
+12,McDonald's,http://dbpedia.org/resource/McDonald's,28986,F&D&T,,0,0
+13,McDonald's,http://dbpedia.org/resource/McDonald's,28987,F&D&T,,0,0
+14,McDonald's,http://dbpedia.org/resource/McDonald's,28988,F&D&T,,0,0
+15,McDonald's,http://dbpedia.org/resource/McDonald's,28989,F&D&T,,0,0
+16,McDonald's,http://dbpedia.org/resource/McDonald's,28990,F&D&T,,0,0
+17,McDonald's,http://dbpedia.org/resource/McDonald's,28991,F&D&T,,0,0
+18,McDonald's,http://dbpedia.org/resource/McDonald's,28992,F&D&T,,0,0
+19,McDonald's,http://dbpedia.org/resource/McDonald's,28993,F&D&T,,0,0
+20,McDonald's,http://dbpedia.org/resource/McDonald's,28994,F&D&T,,0,0
+12,Bof America,http://dbpedia.org/resource/Bank_of_America,28155,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+13,Bof America,http://dbpedia.org/resource/Bank_of_America,28156,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+14,Bof America,http://dbpedia.org/resource/Bank_of_America,28157,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+15,Bof America,http://dbpedia.org/resource/Bank_of_America,28158,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+13,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27312,Retail,http://dbpedia.org/resource/Retail_industry,1,0
+14,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27313,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+15,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27314,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+16,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27315,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+17,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27316,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+18,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27317,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+19,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27318,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+20,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27319,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+21,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27320,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+22,Home Depot,http://dbpedia.org/resource/The_Home_Depot,27321,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+14,Nokia,http://dbpedia.org/resource/Nokia,26538,Technology,http://dbpedia.org/resource/Technology,1,1
+15,Nokia,http://dbpedia.org/resource/Nokia,26539,Technology,http://dbpedia.org/resource/Technology,0,0
+16,Nokia,http://dbpedia.org/resource/Nokia,26540,Technology,http://dbpedia.org/resource/Technology,0,0
+17,Nokia,http://dbpedia.org/resource/Nokia,26541,Technology,http://dbpedia.org/resource/Technology,0,0
+18,Nokia,http://dbpedia.org/resource/Nokia,26542,Technology,http://dbpedia.org/resource/Technology,0,0
+19,Nokia,http://dbpedia.org/resource/Nokia,26543,Technology,http://dbpedia.org/resource/Technology,0,0
+20,Nokia,http://dbpedia.org/resource/Nokia,26544,Technology,http://dbpedia.org/resource/Technology,0,0
+21,Nokia,http://dbpedia.org/resource/Nokia,26545,Technology,http://dbpedia.org/resource/Technology,0,0
+22,Nokia,http://dbpedia.org/resource/Nokia,26546,Technology,http://dbpedia.org/resource/Technology,0,0
+23,Nokia,http://dbpedia.org/resource/Nokia,26547,Technology,http://dbpedia.org/resource/Technology,0,0
+15,Intel,http://dbpedia.org/resource/Intel,25156,Technology,http://dbpedia.org/resource/Technology,1,1
+16,Intel,http://dbpedia.org/resource/Intel,25157,Technology,http://dbpedia.org/resource/Technology,0,0
+17,Intel,http://dbpedia.org/resource/Intel,25158,Technology,http://dbpedia.org/resource/Technology,0,0
+18,Intel,http://dbpedia.org/resource/Intel,25159,Technology,http://dbpedia.org/resource/Technology,0,0
+19,Intel,http://dbpedia.org/resource/Intel,25160,Technology,http://dbpedia.org/resource/Technology,0,0
+20,Intel,http://dbpedia.org/resource/Intel,25161,Technology,http://dbpedia.org/resource/Technology,0,0
+21,Intel,http://dbpedia.org/resource/Intel,25162,Technology,http://dbpedia.org/resource/Technology,0,0
+22,Intel,http://dbpedia.org/resource/Intel,25163,Technology,http://dbpedia.org/resource/Technology,0,0
+23,Intel,http://dbpedia.org/resource/Intel,25164,Technology,http://dbpedia.org/resource/Technology,0,0
+24,Intel,http://dbpedia.org/resource/Intel,25165,Technology,http://dbpedia.org/resource/Technology,0,0
+16,Vodafone,http://dbpedia.org/resource/Vodafone,24072,Telecom,http://dbpedia.org/resource/Telecommunication,1,1
+17,Vodafone,http://dbpedia.org/resource/Vodafone,24073,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+18,Vodafone,http://dbpedia.org/resource/Vodafone,24074,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+19,Vodafone,http://dbpedia.org/resource/Vodafone,24075,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+20,Vodafone,http://dbpedia.org/resource/Vodafone,24076,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+21,Vodafone,http://dbpedia.org/resource/Vodafone,24077,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+22,Vodafone,http://dbpedia.org/resource/Vodafone,24078,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+23,Vodafone,http://dbpedia.org/resource/Vodafone,24079,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+24,Vodafone,http://dbpedia.org/resource/Vodafone,24080,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+25,Vodafone,http://dbpedia.org/resource/Vodafone,24081,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+17,BMW,http://dbpedia.org/resource/BMW,23820,Cars,http://dbpedia.org/resource/Automotive_industry,1,1
+18,BMW,http://dbpedia.org/resource/BMW,23821,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+19,BMW,http://dbpedia.org/resource/BMW,23822,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+20,BMW,http://dbpedia.org/resource/BMW,23823,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+21,BMW,http://dbpedia.org/resource/BMW,23824,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+22,BMW,http://dbpedia.org/resource/BMW,23825,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+23,BMW,http://dbpedia.org/resource/BMW,23826,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+24,BMW,http://dbpedia.org/resource/BMW,23827,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+25,BMW,http://dbpedia.org/resource/BMW,23828,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+26,BMW,http://dbpedia.org/resource/BMW,23829,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+18,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22232,Software,http://dbpedia.org/resource/Software,1,0
+19,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22233,Software,http://dbpedia.org/resource/Software,0,0
+20,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22234,Software,http://dbpedia.org/resource/Software,0,0
+21,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22235,Software,http://dbpedia.org/resource/Software,0,0
+22,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22236,Software,http://dbpedia.org/resource/Software,0,0
+23,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22237,Software,http://dbpedia.org/resource/Software,0,0
+24,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22238,Software,http://dbpedia.org/resource/Software,0,0
+25,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22239,Software,http://dbpedia.org/resource/Software,0,0
+26,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22240,Software,http://dbpedia.org/resource/Software,0,0
+27,Disney,http://dbpedia.org/resource/The_Walt_Disney_Company,22241,Software,http://dbpedia.org/resource/Software,0,0
+19,UPS,http://dbpedia.org/resource/United_Parcel_Service,21829,Retail,http://dbpedia.org/resource/Retail_industry,1,0
+20,UPS,http://dbpedia.org/resource/United_Parcel_Service,21830,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+21,UPS,http://dbpedia.org/resource/United_Parcel_Service,21831,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+22,UPS,http://dbpedia.org/resource/United_Parcel_Service,21832,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+23,UPS,http://dbpedia.org/resource/United_Parcel_Service,21833,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+24,UPS,http://dbpedia.org/resource/United_Parcel_Service,21834,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+25,UPS,http://dbpedia.org/resource/United_Parcel_Service,21835,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+26,UPS,http://dbpedia.org/resource/United_Parcel_Service,21836,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+27,UPS,http://dbpedia.org/resource/United_Parcel_Service,21837,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+28,UPS,http://dbpedia.org/resource/United_Parcel_Service,21838,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+20,Cisco,http://dbpedia.org/resource/Cisco_System,20922,Technology,http://dbpedia.org/resource/Technology,1,0
+21,Cisco,http://dbpedia.org/resource/Cisco_System,20923,Technology,http://dbpedia.org/resource/Technology,0,0
+22,Cisco,http://dbpedia.org/resource/Cisco_System,20924,Technology,http://dbpedia.org/resource/Technology,0,0
+23,Cisco,http://dbpedia.org/resource/Cisco_System,20925,Technology,http://dbpedia.org/resource/Technology,0,0
+24,Cisco,http://dbpedia.org/resource/Cisco_System,20926,Technology,http://dbpedia.org/resource/Technology,0,0
+25,Cisco,http://dbpedia.org/resource/Cisco_System,20927,Technology,http://dbpedia.org/resource/Technology,0,0
+26,Cisco,http://dbpedia.org/resource/Cisco_System,20928,Technology,http://dbpedia.org/resource/Technology,0,0
+27,Cisco,http://dbpedia.org/resource/Cisco_System,20929,Technology,http://dbpedia.org/resource/Technology,0,0
+28,Cisco,http://dbpedia.org/resource/Cisco_System,20930,Technology,http://dbpedia.org/resource/Technology,0,0
+29,Cisco,http://dbpedia.org/resource/Cisco_System,20931,Technology,http://dbpedia.org/resource/Technology,0,0
+21,HP,http://dbpedia.org/resource/Hewlett-Packard,19732,Technology,http://dbpedia.org/resource/Technology,1,0
+22,HP,http://dbpedia.org/resource/Hewlett-Packard,19733,Technology,http://dbpedia.org/resource/Technology,0,0
+23,HP,http://dbpedia.org/resource/Hewlett-Packard,19734,Technology,http://dbpedia.org/resource/Technology,0,0
+24,HP,http://dbpedia.org/resource/Hewlett-Packard,19735,Technology,http://dbpedia.org/resource/Technology,0,0
+25,HP,http://dbpedia.org/resource/Hewlett-Packard,19736,Technology,http://dbpedia.org/resource/Technology,0,0
+26,HP,http://dbpedia.org/resource/Hewlett-Packard,19737,Technology,http://dbpedia.org/resource/Technology,0,0
+27,HP,http://dbpedia.org/resource/Hewlett-Packard,19738,Technology,http://dbpedia.org/resource/Technology,0,0
+28,HP,http://dbpedia.org/resource/Hewlett-Packard,19739,Technology,http://dbpedia.org/resource/Technology,0,0
+29,HP,http://dbpedia.org/resource/Hewlett-Packard,19740,Technology,http://dbpedia.org/resource/Technology,0,0
+30,HP,http://dbpedia.org/resource/Hewlett-Packard,19741,Technology,http://dbpedia.org/resource/Technology,0,0
+22,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19551,Telecom,http://dbpedia.org/resource/Telecommunication,1,0
+23,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19552,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+24,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19553,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+25,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19554,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+26,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19555,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+27,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19556,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+28,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19557,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+29,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19558,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+30,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19559,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+31,TIM,http://dbpedia.org/resource/Telecom_Italia_Mobile,19560,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+23,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19518,Telecom,http://dbpedia.org/resource/Telecommunication,1,1
+24,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19519,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+25,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19520,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+26,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19521,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+27,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19522,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+28,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19523,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+29,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19524,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+30,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19525,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+31,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19526,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+32,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19527,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+33,NTT Docomo,http://dbpedia.org/resource/NTT_DoCoMo,19528,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+24,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19479,Luxury,http://dbpedia.org/resource/Luxury_good,1,1
+25,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19480,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+26,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19481,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+27,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19482,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+28,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19483,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+29,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19484,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+30,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19485,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+31,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19486,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+32,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19487,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+33,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19488,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+34,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19489,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+35,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19490,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+36,Louis Vuitton,http://dbpedia.org/resource/Louis_Vuitton,19491,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+25,American Express,http://dbpedia.org/resource/American_Express,18780,Finance,http://dbpedia.org/resource/Finance_industry,1,1
+26,American Express,http://dbpedia.org/resource/American_Express,18781,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+27,American Express,http://dbpedia.org/resource/American_Express,18782,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+28,American Express,http://dbpedia.org/resource/American_Express,18783,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+29,American Express,http://dbpedia.org/resource/American_Express,18784,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+30,American Express,http://dbpedia.org/resource/American_Express,18785,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+31,American Express,http://dbpedia.org/resource/American_Express,18786,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+32,American Express,http://dbpedia.org/resource/American_Express,18787,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+33,American Express,http://dbpedia.org/resource/American_Express,18788,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+34,American Express,http://dbpedia.org/resource/American_Express,18789,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+35,American Express,http://dbpedia.org/resource/American_Express,18790,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+36,American Express,http://dbpedia.org/resource/American_Express,18791,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+37,American Express,http://dbpedia.org/resource/American_Express,18792,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+26,Dell,http://dbpedia.org/resource/Dell,18303,Technology,http://dbpedia.org/resource/Technology,1,1
+27,Dell,http://dbpedia.org/resource/Dell,18304,Technology,http://dbpedia.org/resource/Technology,0,0
+28,Dell,http://dbpedia.org/resource/Dell,18305,Technology,http://dbpedia.org/resource/Technology,0,0
+29,Dell,http://dbpedia.org/resource/Dell,18306,Technology,http://dbpedia.org/resource/Technology,0,0
+30,Dell,http://dbpedia.org/resource/Dell,18307,Technology,http://dbpedia.org/resource/Technology,0,0
+31,Dell,http://dbpedia.org/resource/Dell,18308,Technology,http://dbpedia.org/resource/Technology,0,0
+32,Dell,http://dbpedia.org/resource/Dell,18309,Technology,http://dbpedia.org/resource/Technology,0,0
+33,Dell,http://dbpedia.org/resource/Dell,18310,Technology,http://dbpedia.org/resource/Technology,0,0
+34,Dell,http://dbpedia.org/resource/Dell,18311,Technology,http://dbpedia.org/resource/Technology,0,0
+35,Dell,http://dbpedia.org/resource/Dell,18312,Technology,http://dbpedia.org/resource/Technology,0,0
+27,Gillette,http://dbpedia.org/resource/Gillette_(brand),17832,Personal Care,http://dbpedia.org/resource/Personal_Care,1,0
+28,Gillette,http://dbpedia.org/resource/Gillette_(brand),17833,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+29,Gillette,http://dbpedia.org/resource/Gillette_(brand),17834,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+30,Gillette,http://dbpedia.org/resource/Gillette_(brand),17835,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+31,Gillette,http://dbpedia.org/resource/Gillette_(brand),17836,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+32,Gillette,http://dbpedia.org/resource/Gillette_(brand),17837,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+33,Gillette,http://dbpedia.org/resource/Gillette_(brand),17838,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+34,Gillette,http://dbpedia.org/resource/Gillette_(brand),17839,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+35,Gillette,http://dbpedia.org/resource/Gillette_(brand),17840,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+36,Gillette,http://dbpedia.org/resource/Gillette_(brand),17841,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+28,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17801,Cars,http://dbpedia.org/resource/Automotive_industry,1,0
+29,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17802,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+30,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17803,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+31,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17804,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+32,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17805,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+33,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17806,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+34,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17807,Cars,http://dbpedia.org/resource/Automotive_industry,0,1
+35,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17808,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+36,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17809,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+37,Mercedes,http://dbpedia.org/resource/Mercedes-Benz,17810,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+29,Apple,http://dbpedia.org/resource/Apple_Inc.,15976,Technology,http://dbpedia.org/resource/Technology,1,0
+30,Apple,http://dbpedia.org/resource/Apple_Inc.,15977,Technology,http://dbpedia.org/resource/Technology,0,0
+31,Apple,http://dbpedia.org/resource/Apple_Inc.,15978,Technology,http://dbpedia.org/resource/Technology,0,0
+32,Apple,http://dbpedia.org/resource/Apple_Inc.,15979,Technology,http://dbpedia.org/resource/Technology,0,0
+33,Apple,http://dbpedia.org/resource/Apple_Inc.,15980,Technology,http://dbpedia.org/resource/Technology,0,0
+34,Apple,http://dbpedia.org/resource/Apple_Inc.,15981,Technology,http://dbpedia.org/resource/Technology,0,0
+35,Apple,http://dbpedia.org/resource/Apple_Inc.,15982,Technology,http://dbpedia.org/resource/Technology,0,0
+36,Apple,http://dbpedia.org/resource/Apple_Inc.,15983,Technology,http://dbpedia.org/resource/Technology,0,0
+37,Apple,http://dbpedia.org/resource/Apple_Inc.,15984,Technology,http://dbpedia.org/resource/Technology,0,0
+38,Apple,http://dbpedia.org/resource/Apple_Inc.,15985,Technology,http://dbpedia.org/resource/Technology,0,0
+30,Tesco,http://dbpedia.org/resource/Tesco,15532,Retail,http://dbpedia.org/resource/Retail_industry,1,1
+31,Tesco,http://dbpedia.org/resource/Tesco,15533,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+32,Tesco,http://dbpedia.org/resource/Tesco,15534,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+33,Tesco,http://dbpedia.org/resource/Tesco,15535,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+34,Tesco,http://dbpedia.org/resource/Tesco,15536,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+35,Tesco,http://dbpedia.org/resource/Tesco,15537,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+36,Tesco,http://dbpedia.org/resource/Tesco,15538,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+37,Tesco,http://dbpedia.org/resource/Tesco,15539,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+38,Tesco,http://dbpedia.org/resource/Tesco,15540,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+39,Tesco,http://dbpedia.org/resource/Tesco,15541,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+31,Movistar,http://dbpedia.org/resource/Movistar,15188,Telecom,http://dbpedia.org/resource/Telecommunication,1,0
+32,Movistar,http://dbpedia.org/resource/Movistar,15189,Telecom,http://dbpedia.org/resource/Telecommunication,0,1
+33,Movistar,http://dbpedia.org/resource/Movistar,15190,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+34,Movistar,http://dbpedia.org/resource/Movistar,15191,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+35,Movistar,http://dbpedia.org/resource/Movistar,15192,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+36,Movistar,http://dbpedia.org/resource/Movistar,15193,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+37,Movistar,http://dbpedia.org/resource/Movistar,15194,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+38,Movistar,http://dbpedia.org/resource/Movistar,15195,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+39,Movistar,http://dbpedia.org/resource/Movistar,15196,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+40,Movistar,http://dbpedia.org/resource/Movistar,15197,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+32,Verizon,http://dbpedia.org/resource/Verizon_Communications,14908,Telecom,http://dbpedia.org/resource/Telecommunication,1,0
+33,Verizon,http://dbpedia.org/resource/Verizon_Communications,14909,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+34,Verizon,http://dbpedia.org/resource/Verizon_Communications,14910,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+35,Verizon,http://dbpedia.org/resource/Verizon_Communications,14911,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+36,Verizon,http://dbpedia.org/resource/Verizon_Communications,14912,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+37,Verizon,http://dbpedia.org/resource/Verizon_Communications,14913,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+38,Verizon,http://dbpedia.org/resource/Verizon_Communications,14914,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+39,Verizon,http://dbpedia.org/resource/Verizon_Communications,14915,Telecom,http://dbpedia.org/resource/Telecommunication,0,1
+40,Verizon,http://dbpedia.org/resource/Verizon_Communications,14916,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+41,Verizon,http://dbpedia.org/resource/Verizon_Communications,14917,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+33,Honda,http://dbpedia.org/resource/Honda,14394,Cars,http://dbpedia.org/resource/Automotive_industry,1,1
+34,Honda,http://dbpedia.org/resource/Honda,14395,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+35,Honda,http://dbpedia.org/resource/Honda,14396,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+36,Honda,http://dbpedia.org/resource/Honda,14397,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+37,Honda,http://dbpedia.org/resource/Honda,14398,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+38,Honda,http://dbpedia.org/resource/Honda,14399,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+39,Honda,http://dbpedia.org/resource/Honda,14400,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+40,Honda,http://dbpedia.org/resource/Honda,14401,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+41,Honda,http://dbpedia.org/resource/Honda,14402,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+42,Honda,http://dbpedia.org/resource/Honda,14403,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+34,Yahoo!,http://dbpedia.org/resource/Yahoo!,14101,Software,http://dbpedia.org/resource/Software,1,1
+35,Yahoo!,http://dbpedia.org/resource/Yahoo!,14102,Software,http://dbpedia.org/resource/Software,0,0
+36,Yahoo!,http://dbpedia.org/resource/Yahoo!,14103,Software,http://dbpedia.org/resource/Software,0,0
+37,Yahoo!,http://dbpedia.org/resource/Yahoo!,14104,Software,http://dbpedia.org/resource/Software,0,0
+38,Yahoo!,http://dbpedia.org/resource/Yahoo!,14105,Software,http://dbpedia.org/resource/Software,0,0
+39,Yahoo!,http://dbpedia.org/resource/Yahoo!,14106,Software,http://dbpedia.org/resource/Software,0,0
+40,Yahoo!,http://dbpedia.org/resource/Yahoo!,14107,Software,http://dbpedia.org/resource/Software,0,0
+41,Yahoo!,http://dbpedia.org/resource/Yahoo!,14108,Software,http://dbpedia.org/resource/Software,0,0
+42,Yahoo!,http://dbpedia.org/resource/Yahoo!,14109,Software,http://dbpedia.org/resource/Software,0,0
+43,Yahoo!,http://dbpedia.org/resource/Yahoo!,14110,Software,http://dbpedia.org/resource/Software,0,0
+35,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13913,Software,http://dbpedia.org/resource/Software,1,0
+36,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13914,Software,http://dbpedia.org/resource/Software,0,0
+37,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13915,Software,http://dbpedia.org/resource/Software,0,0
+38,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13916,Software,http://dbpedia.org/resource/Software,0,0
+39,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13917,Software,http://dbpedia.org/resource/Software,0,0
+40,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13918,Software,http://dbpedia.org/resource/Software,0,0
+41,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13919,Software,http://dbpedia.org/resource/Software,0,0
+42,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13920,Software,http://dbpedia.org/resource/Software,0,0
+43,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13921,Software,http://dbpedia.org/resource/Software,0,0
+44,Oracle,http://dbpedia.org/resource/Oracle_Corporation,13922,Software,http://dbpedia.org/resource/Software,0,0
+36,HSBC,http://dbpedia.org/resource/HSBC,13889,Bank,http://dbpedia.org/resource/Banking_industry,1,1
+37,HSBC,http://dbpedia.org/resource/HSBC,13890,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+38,HSBC,http://dbpedia.org/resource/HSBC,13891,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+39,HSBC,http://dbpedia.org/resource/HSBC,13892,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+40,HSBC,http://dbpedia.org/resource/HSBC,13893,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+41,HSBC,http://dbpedia.org/resource/HSBC,13894,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+42,HSBC,http://dbpedia.org/resource/HSBC,13895,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+43,HSBC,http://dbpedia.org/resource/HSBC,13896,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+44,HSBC,http://dbpedia.org/resource/HSBC,13897,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+45,HSBC,http://dbpedia.org/resource/HSBC,13898,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+37,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13844,Cars,http://dbpedia.org/resource/Automotive_industry,1,0
+38,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13845,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+39,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13846,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+40,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13847,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+41,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13848,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+42,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13849,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+43,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13850,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+44,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13851,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+45,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13852,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+46,Ford,http://dbpedia.org/resource/Ford_Motor_Company,13853,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+38,eBay,http://dbpedia.org/resource/EBay,13191,Software,http://dbpedia.org/resource/Software,1,1
+39,eBay,http://dbpedia.org/resource/EBay,13192,Software,http://dbpedia.org/resource/Software,0,0
+40,eBay,http://dbpedia.org/resource/EBay,13193,Software,http://dbpedia.org/resource/Software,0,0
+41,eBay,http://dbpedia.org/resource/EBay,13194,Software,http://dbpedia.org/resource/Software,0,0
+42,eBay,http://dbpedia.org/resource/EBay,13195,Software,http://dbpedia.org/resource/Software,0,0
+43,eBay,http://dbpedia.org/resource/EBay,13196,Software,http://dbpedia.org/resource/Software,0,0
+44,eBay,http://dbpedia.org/resource/EBay,13197,Software,http://dbpedia.org/resource/Software,0,0
+45,eBay,http://dbpedia.org/resource/EBay,13198,Software,http://dbpedia.org/resource/Software,0,0
+46,eBay,http://dbpedia.org/resource/EBay,13199,Software,http://dbpedia.org/resource/Software,0,0
+47,eBay,http://dbpedia.org/resource/EBay,13200,Software,http://dbpedia.org/resource/Software,0,0
+39,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13022,Bank,http://dbpedia.org/resource/Banking_industry,1,1
+40,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13023,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+41,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13024,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+42,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13025,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+43,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13026,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+44,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13027,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+45,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13028,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+46,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13029,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+47,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13030,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+48,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13031,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+49,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13032,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+50,Deutsche Bank,http://dbpedia.org/resource/Deutsche_Bank,13033,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+40,Santander,http://dbpedia.org/resource/Santander_Group,12537,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+41,Santander,http://dbpedia.org/resource/Santander_Group,12538,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+42,Santander,http://dbpedia.org/resource/Santander_Group,12539,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+43,Santander,http://dbpedia.org/resource/Santander_Group,12540,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+44,Santander,http://dbpedia.org/resource/Santander_Group,12541,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+45,Santander,http://dbpedia.org/resource/Santander_Group,12542,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+46,Santander,http://dbpedia.org/resource/Santander_Group,12543,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+47,Santander,http://dbpedia.org/resource/Santander_Group,12544,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+48,Santander,http://dbpedia.org/resource/Santander_Group,12545,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+49,Santander,http://dbpedia.org/resource/Santander_Group,12546,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+41,Chevrolet,http://dbpedia.org/resource/Chevrolet,12458,Cars,http://dbpedia.org/resource/Automotive_industry,1,1
+42,Chevrolet,http://dbpedia.org/resource/Chevrolet,12459,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+43,Chevrolet,http://dbpedia.org/resource/Chevrolet,12460,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+44,Chevrolet,http://dbpedia.org/resource/Chevrolet,12461,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+45,Chevrolet,http://dbpedia.org/resource/Chevrolet,12462,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+46,Chevrolet,http://dbpedia.org/resource/Chevrolet,12463,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+47,Chevrolet,http://dbpedia.org/resource/Chevrolet,12464,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+48,Chevrolet,http://dbpedia.org/resource/Chevrolet,12465,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+49,Chevrolet,http://dbpedia.org/resource/Chevrolet,12466,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+50,Chevrolet,http://dbpedia.org/resource/Chevrolet,12467,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+42,Pfizer,http://dbpedia.org/resource/Pfizer,12372,Personal Care,http://dbpedia.org/resource/Personal_Care,1,1
+43,Pfizer,http://dbpedia.org/resource/Pfizer,12373,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+44,Pfizer,http://dbpedia.org/resource/Pfizer,12374,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+45,Pfizer,http://dbpedia.org/resource/Pfizer,12375,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+46,Pfizer,http://dbpedia.org/resource/Pfizer,12376,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+47,Pfizer,http://dbpedia.org/resource/Pfizer,12377,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+48,Pfizer,http://dbpedia.org/resource/Pfizer,12378,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+49,Pfizer,http://dbpedia.org/resource/Pfizer,12379,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+50,Pfizer,http://dbpedia.org/resource/Pfizer,12380,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+51,Pfizer,http://dbpedia.org/resource/Pfizer,12381,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+43,Samsung,http://dbpedia.org/resource/Samsung,12028,Technology,http://dbpedia.org/resource/Technology,1,1
+44,Samsung,http://dbpedia.org/resource/Samsung,12029,Technology,http://dbpedia.org/resource/Technology,0,0
+45,Samsung,http://dbpedia.org/resource/Samsung,12030,Technology,http://dbpedia.org/resource/Technology,0,0
+46,Samsung,http://dbpedia.org/resource/Samsung,12031,Technology,http://dbpedia.org/resource/Technology,0,0
+47,Samsung,http://dbpedia.org/resource/Samsung,12032,Technology,http://dbpedia.org/resource/Technology,0,0
+48,Samsung,http://dbpedia.org/resource/Samsung,12033,Technology,http://dbpedia.org/resource/Technology,0,0
+49,Samsung,http://dbpedia.org/resource/Samsung,12034,Technology,http://dbpedia.org/resource/Technology,0,0
+50,Samsung,http://dbpedia.org/resource/Samsung,12035,Technology,http://dbpedia.org/resource/Technology,0,0
+51,Samsung,http://dbpedia.org/resource/Samsung,12036,Technology,http://dbpedia.org/resource/Technology,0,0
+52,Samsung,http://dbpedia.org/resource/Samsung,12037,Technology,http://dbpedia.org/resource/Technology,0,0
+44,Porsche,http://dbpedia.org/resource/Porsche,12025,Cars,http://dbpedia.org/resource/Automotive_industry,1,1
+45,Porsche,http://dbpedia.org/resource/Porsche,12026,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+46,Porsche,http://dbpedia.org/resource/Porsche,12027,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+47,Porsche,http://dbpedia.org/resource/Porsche,12028,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+48,Porsche,http://dbpedia.org/resource/Porsche,12029,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+49,Porsche,http://dbpedia.org/resource/Porsche,12030,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+50,Porsche,http://dbpedia.org/resource/Porsche,12031,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+51,Porsche,http://dbpedia.org/resource/Porsche,12032,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+52,Porsche,http://dbpedia.org/resource/Porsche,12033,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+53,Porsche,http://dbpedia.org/resource/Porsche,12034,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+45,T-Mobile,http://dbpedia.org/resource/T-Mobile,11870,Telecom,http://dbpedia.org/resource/Telecommunication,1,1
+46,T-Mobile,http://dbpedia.org/resource/T-Mobile,11871,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+47,T-Mobile,http://dbpedia.org/resource/T-Mobile,11872,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+48,T-Mobile,http://dbpedia.org/resource/T-Mobile,11873,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+49,T-Mobile,http://dbpedia.org/resource/T-Mobile,11874,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+50,T-Mobile,http://dbpedia.org/resource/T-Mobile,11875,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+51,T-Mobile,http://dbpedia.org/resource/T-Mobile,11876,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+52,T-Mobile,http://dbpedia.org/resource/T-Mobile,11877,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+53,T-Mobile,http://dbpedia.org/resource/T-Mobile,11878,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+54,T-Mobile,http://dbpedia.org/resource/T-Mobile,11879,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+46,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11724,F&D&T,,1,0
+47,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11725,F&D&T,,0,0
+48,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11726,F&D&T,,0,0
+49,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11727,F&D&T,,0,0
+50,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11728,F&D&T,,0,0
+51,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11729,F&D&T,,0,0
+52,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11730,F&D&T,,0,0
+53,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11731,F&D&T,,0,0
+54,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11732,F&D&T,,0,0
+55,Budweiser,http://dbpedia.org/resource/Anheuser-Busch,11733,F&D&T,,0,0
+47,Pepsi,http://dbpedia.org/resource/PepsiCo,11484,F&D&T,,1,0
+48,Pepsi,http://dbpedia.org/resource/PepsiCo,11485,F&D&T,,0,0
+49,Pepsi,http://dbpedia.org/resource/PepsiCo,11486,F&D&T,,0,0
+50,Pepsi,http://dbpedia.org/resource/PepsiCo,11487,F&D&T,,0,0
+51,Pepsi,http://dbpedia.org/resource/PepsiCo,11488,F&D&T,,0,0
+52,Pepsi,http://dbpedia.org/resource/PepsiCo,11489,F&D&T,,0,0
+53,Pepsi,http://dbpedia.org/resource/PepsiCo,11490,F&D&T,,0,0
+54,Pepsi,http://dbpedia.org/resource/PepsiCo,11491,F&D&T,,0,0
+55,Pepsi,http://dbpedia.org/resource/PepsiCo,11492,F&D&T,,0,0
+56,Pepsi,http://dbpedia.org/resource/PepsiCo,11493,F&D&T,,0,0
+48,Starbucks,http://dbpedia.org/resource/Starbucks,11077,F&D&T,,1,1
+49,Starbucks,http://dbpedia.org/resource/Starbucks,11078,F&D&T,,0,0
+50,Starbucks,http://dbpedia.org/resource/Starbucks,11079,F&D&T,,0,0
+51,Starbucks,http://dbpedia.org/resource/Starbucks,11080,F&D&T,,0,0
+52,Starbucks,http://dbpedia.org/resource/Starbucks,11081,F&D&T,,0,0
+53,Starbucks,http://dbpedia.org/resource/Starbucks,11082,F&D&T,,0,0
+54,Starbucks,http://dbpedia.org/resource/Starbucks,11083,F&D&T,,0,0
+55,Starbucks,http://dbpedia.org/resource/Starbucks,11084,F&D&T,,0,0
+56,Starbucks,http://dbpedia.org/resource/Starbucks,11085,F&D&T,,0,0
+57,Starbucks,http://dbpedia.org/resource/Starbucks,11086,F&D&T,,0,0
+49,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10915,Cars,http://dbpedia.org/resource/Automotive_industry,1,0
+50,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10916,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+51,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10917,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+52,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10918,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+53,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10919,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+54,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10920,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+55,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10921,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+56,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10922,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+57,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10923,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+58,Nissan,http://dbpedia.org/resource/Nissan_Motor_Company,10924,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+50,Carrefour,http://dbpedia.org/resource/Carrefour,10803,Retail,http://dbpedia.org/resource/Retail_industry,1,0
+51,Carrefour,http://dbpedia.org/resource/Carrefour,10804,Retail,http://dbpedia.org/resource/Retail_industry,0,1
+52,Carrefour,http://dbpedia.org/resource/Carrefour,10805,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+53,Carrefour,http://dbpedia.org/resource/Carrefour,10806,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+54,Carrefour,http://dbpedia.org/resource/Carrefour,10807,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+55,Carrefour,http://dbpedia.org/resource/Carrefour,10808,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+56,Carrefour,http://dbpedia.org/resource/Carrefour,10809,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+57,Carrefour,http://dbpedia.org/resource/Carrefour,10810,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+58,Carrefour,http://dbpedia.org/resource/Carrefour,10811,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+59,Carrefour,http://dbpedia.org/resource/Carrefour,10812,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+51,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10783,Apparel,http://dbpedia.org/resource/Apparel_industry,1,0
+52,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10784,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+53,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10785,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+54,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10786,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+55,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10787,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+56,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10788,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+57,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10789,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+58,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10790,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+59,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10791,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+60,Nike,"http://dbpedia.org/resource/Nike,_Inc.",10792,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+52,L'Or?al,http://dbpedia.org/resource/L'Oréal,10692,Personal Care,http://dbpedia.org/resource/Personal_Care,1,0
+53,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10619,Finance,http://dbpedia.org/resource/Finance_industry,1,1
+54,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10620,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+55,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10621,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+56,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10622,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+57,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10623,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+58,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10624,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+59,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10625,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+60,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10626,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+61,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10627,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+62,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10628,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+63,Morgan Stanley,http://dbpedia.org/resource/Morgan_Stanley,10629,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+54,Wachovia,http://dbpedia.org/resource/Wachovia,10228,Finance,http://dbpedia.org/resource/Finance_industry,1,1
+55,Wachovia,http://dbpedia.org/resource/Wachovia,10229,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+56,Wachovia,http://dbpedia.org/resource/Wachovia,10230,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+57,Wachovia,http://dbpedia.org/resource/Wachovia,10231,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+58,Wachovia,http://dbpedia.org/resource/Wachovia,10232,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+59,Wachovia,http://dbpedia.org/resource/Wachovia,10233,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+60,Wachovia,http://dbpedia.org/resource/Wachovia,10234,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+61,Wachovia,http://dbpedia.org/resource/Wachovia,10235,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+55,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10073,Finance,http://dbpedia.org/resource/Finance_industry,1,1
+56,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10074,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+57,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10075,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+58,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10076,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+59,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10077,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+60,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10078,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+61,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10079,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+62,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10080,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+63,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10081,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+64,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10082,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+65,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10083,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+66,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10084,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+67,Merrill Lynch,http://dbpedia.org/resource/Merrill_Lynch,10085,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+56,Harley-Davidson,http://dbpedia.org/resource/Harley-Davidson,9955,Cars,http://dbpedia.org/resource/Automotive_industry,1,0
+57,Harley-Davidson,http://dbpedia.org/resource/Harley-Davidson,9956,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+58,Harley-Davidson,http://dbpedia.org/resource/Harley-Davidson,9957,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+57,Canon,http://dbpedia.org/resource/Canon_Inc.,9908,Technology,http://dbpedia.org/resource/Technology,1,0
+58,Canon,http://dbpedia.org/resource/Canon_Inc.,9909,Technology,http://dbpedia.org/resource/Technology,0,0
+59,Canon,http://dbpedia.org/resource/Canon_Inc.,9910,Technology,http://dbpedia.org/resource/Technology,0,0
+60,Canon,http://dbpedia.org/resource/Canon_Inc.,9911,Technology,http://dbpedia.org/resource/Technology,0,0
+61,Canon,http://dbpedia.org/resource/Canon_Inc.,9912,Technology,http://dbpedia.org/resource/Technology,0,0
+62,Canon,http://dbpedia.org/resource/Canon_Inc.,9913,Technology,http://dbpedia.org/resource/Technology,0,0
+63,Canon,http://dbpedia.org/resource/Canon_Inc.,9914,Technology,http://dbpedia.org/resource/Technology,0,0
+64,Canon,http://dbpedia.org/resource/Canon_Inc.,9915,Technology,http://dbpedia.org/resource/Technology,0,0
+65,Canon,http://dbpedia.org/resource/Canon_Inc.,9916,Technology,http://dbpedia.org/resource/Technology,0,0
+66,Canon,http://dbpedia.org/resource/Canon_Inc.,9917,Technology,http://dbpedia.org/resource/Technology,0,0
+58,Accenture,http://dbpedia.org/resource/Accenture,9786,Software,http://dbpedia.org/resource/Software,1,1
+59,Accenture,http://dbpedia.org/resource/Accenture,9787,Software,http://dbpedia.org/resource/Software,0,0
+60,Accenture,http://dbpedia.org/resource/Accenture,9788,Software,http://dbpedia.org/resource/Software,0,0
+61,Accenture,http://dbpedia.org/resource/Accenture,9789,Software,http://dbpedia.org/resource/Software,0,0
+62,Accenture,http://dbpedia.org/resource/Accenture,9790,Software,http://dbpedia.org/resource/Software,0,0
+63,Accenture,http://dbpedia.org/resource/Accenture,9791,Software,http://dbpedia.org/resource/Software,0,0
+64,Accenture,http://dbpedia.org/resource/Accenture,9792,Software,http://dbpedia.org/resource/Software,0,0
+65,Accenture,http://dbpedia.org/resource/Accenture,9793,Software,http://dbpedia.org/resource/Software,0,0
+66,Accenture,http://dbpedia.org/resource/Accenture,9794,Software,http://dbpedia.org/resource/Software,0,0
+67,Accenture,http://dbpedia.org/resource/Accenture,9795,Software,http://dbpedia.org/resource/Software,0,0
+59,Chase,http://dbpedia.org/resource/Chase_(bank),9716,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+60,Chase,http://dbpedia.org/resource/Chase_(bank),9717,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+61,Chase,http://dbpedia.org/resource/Chase_(bank),9718,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+62,Chase,http://dbpedia.org/resource/Chase_(bank),9719,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+63,Chase,http://dbpedia.org/resource/Chase_(bank),9720,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+64,Chase,http://dbpedia.org/resource/Chase_(bank),9721,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+65,Chase,http://dbpedia.org/resource/Chase_(bank),9722,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+66,Chase,http://dbpedia.org/resource/Chase_(bank),9723,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+67,Chase,http://dbpedia.org/resource/Chase_(bank),9724,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+68,Chase,http://dbpedia.org/resource/Chase_(bank),9725,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+60,SAP,http://dbpedia.org/resource/SAP_AG,9574,Software,http://dbpedia.org/resource/Software,1,0
+61,SAP,http://dbpedia.org/resource/SAP_AG,9575,Software,http://dbpedia.org/resource/Software,0,0
+62,SAP,http://dbpedia.org/resource/SAP_AG,9576,Software,http://dbpedia.org/resource/Software,0,0
+63,SAP,http://dbpedia.org/resource/SAP_AG,9577,Software,http://dbpedia.org/resource/Software,0,0
+64,SAP,http://dbpedia.org/resource/SAP_AG,9578,Software,http://dbpedia.org/resource/Software,0,0
+65,SAP,http://dbpedia.org/resource/SAP_AG,9579,Software,http://dbpedia.org/resource/Software,0,0
+66,SAP,http://dbpedia.org/resource/SAP_AG,9580,Software,http://dbpedia.org/resource/Software,0,0
+67,SAP,http://dbpedia.org/resource/SAP_AG,9581,Software,http://dbpedia.org/resource/Software,0,0
+68,SAP,http://dbpedia.org/resource/SAP_AG,9582,Software,http://dbpedia.org/resource/Software,0,0
+69,SAP,http://dbpedia.org/resource/SAP_AG,9583,Software,http://dbpedia.org/resource/Software,0,0
+61,UBS,http://dbpedia.org/resource/UBS,9541,Bank,http://dbpedia.org/resource/Banking_industry,1,1
+62,UBS,http://dbpedia.org/resource/UBS,9542,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+63,UBS,http://dbpedia.org/resource/UBS,9543,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+64,UBS,http://dbpedia.org/resource/UBS,9544,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+65,UBS,http://dbpedia.org/resource/UBS,9545,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+66,UBS,http://dbpedia.org/resource/UBS,9546,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+67,UBS,http://dbpedia.org/resource/UBS,9547,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+68,UBS,http://dbpedia.org/resource/UBS,9548,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+69,UBS,http://dbpedia.org/resource/UBS,9549,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+70,UBS,http://dbpedia.org/resource/UBS,9550,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+62,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9431,Telecom,http://dbpedia.org/resource/Telecommunication,1,0
+63,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9432,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+64,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9433,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+65,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9434,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+66,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9435,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+67,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9436,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+68,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9437,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+69,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9438,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+70,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9439,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+71,Orange,http://dbpedia.org/resource/Orange_(telecommunications),9440,Telecom,http://dbpedia.org/resource/Telecommunication,0,0
+63,Sony,http://dbpedia.org/resource/Sony,9358,Technology,http://dbpedia.org/resource/Technology,1,0
+64,Sony,http://dbpedia.org/resource/Sony,9359,Technology,http://dbpedia.org/resource/Technology,0,1
+65,Sony,http://dbpedia.org/resource/Sony,9360,Technology,http://dbpedia.org/resource/Technology,0,0
+66,Sony,http://dbpedia.org/resource/Sony,9361,Technology,http://dbpedia.org/resource/Technology,0,0
+67,Sony,http://dbpedia.org/resource/Sony,9362,Technology,http://dbpedia.org/resource/Technology,0,0
+68,Sony,http://dbpedia.org/resource/Sony,9363,Technology,http://dbpedia.org/resource/Technology,0,0
+69,Sony,http://dbpedia.org/resource/Sony,9364,Technology,http://dbpedia.org/resource/Technology,0,0
+70,Sony,http://dbpedia.org/resource/Sony,9365,Technology,http://dbpedia.org/resource/Technology,0,0
+71,Sony,http://dbpedia.org/resource/Sony,9366,Technology,http://dbpedia.org/resource/Technology,0,0
+72,Sony,http://dbpedia.org/resource/Sony,9367,Technology,http://dbpedia.org/resource/Technology,0,0
+64,Motorola,http://dbpedia.org/resource/Motorola,9072,Technology,http://dbpedia.org/resource/Technology,1,1
+65,Motorola,http://dbpedia.org/resource/Motorola,9073,Technology,http://dbpedia.org/resource/Technology,0,0
+66,Motorola,http://dbpedia.org/resource/Motorola,9074,Technology,http://dbpedia.org/resource/Technology,0,0
+67,Motorola,http://dbpedia.org/resource/Motorola,9075,Technology,http://dbpedia.org/resource/Technology,0,0
+68,Motorola,http://dbpedia.org/resource/Motorola,9076,Technology,http://dbpedia.org/resource/Technology,0,0
+69,Motorola,http://dbpedia.org/resource/Motorola,9077,Technology,http://dbpedia.org/resource/Technology,0,0
+70,Motorola,http://dbpedia.org/resource/Motorola,9078,Technology,http://dbpedia.org/resource/Technology,0,0
+71,Motorola,http://dbpedia.org/resource/Motorola,9079,Technology,http://dbpedia.org/resource/Technology,0,0
+72,Motorola,http://dbpedia.org/resource/Motorola,9080,Technology,http://dbpedia.org/resource/Technology,0,0
+73,Motorola,http://dbpedia.org/resource/Motorola,9081,Technology,http://dbpedia.org/resource/Technology,0,0
+65,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8863,Finance,http://dbpedia.org/resource/Finance_industry,1,1
+66,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8864,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+67,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8865,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+68,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8866,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+69,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8867,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+70,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8868,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+71,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8869,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+72,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8870,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+73,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8871,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+74,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8872,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+75,Goldman Sachs,http://dbpedia.org/resource/Goldman_Sachs,8873,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+66,FedEx,http://dbpedia.org/resource/FedEx,8240,Retail,http://dbpedia.org/resource/Retail_industry,1,1
+67,FedEx,http://dbpedia.org/resource/FedEx,8241,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+68,FedEx,http://dbpedia.org/resource/FedEx,8242,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+69,FedEx,http://dbpedia.org/resource/FedEx,8243,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+70,FedEx,http://dbpedia.org/resource/FedEx,8244,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+71,FedEx,http://dbpedia.org/resource/FedEx,8245,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+72,FedEx,http://dbpedia.org/resource/FedEx,8246,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+73,FedEx,http://dbpedia.org/resource/FedEx,8247,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+74,FedEx,http://dbpedia.org/resource/FedEx,8248,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+75,FedEx,http://dbpedia.org/resource/FedEx,8249,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+67,H&M,http://dbpedia.org/resource/H&M,8022,Apparel,http://dbpedia.org/resource/Apparel_industry,1,0
+68,H&M,http://dbpedia.org/resource/H&M,8023,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+69,H&M,http://dbpedia.org/resource/H&M,8024,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+70,H&M,http://dbpedia.org/resource/H&M,8025,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+71,H&M,http://dbpedia.org/resource/H&M,8026,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+72,H&M,http://dbpedia.org/resource/H&M,8027,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+73,H&M,http://dbpedia.org/resource/H&M,8028,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+74,H&M,http://dbpedia.org/resource/H&M,8029,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+75,H&M,http://dbpedia.org/resource/H&M,8030,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+76,H&M,http://dbpedia.org/resource/H&M,8031,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+68,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7905,Finance,http://dbpedia.org/resource/Finance_industry,1,0
+69,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7906,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+70,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7907,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+71,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7908,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+72,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7909,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+73,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7910,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+74,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7911,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+75,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7912,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+76,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7913,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+77,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7914,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+78,State Farm,http://dbpedia.org/resource/State_Farm_Insurance,7915,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+69,IKEA,http://dbpedia.org/resource/IKEA,7206,Retail,http://dbpedia.org/resource/Retail_industry,1,1
+70,IKEA,http://dbpedia.org/resource/IKEA,7207,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+71,IKEA,http://dbpedia.org/resource/IKEA,7208,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+72,IKEA,http://dbpedia.org/resource/IKEA,7209,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+73,IKEA,http://dbpedia.org/resource/IKEA,7210,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+74,IKEA,http://dbpedia.org/resource/IKEA,7211,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+75,IKEA,http://dbpedia.org/resource/IKEA,7212,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+76,IKEA,http://dbpedia.org/resource/IKEA,7213,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+77,IKEA,http://dbpedia.org/resource/IKEA,7214,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+78,IKEA,http://dbpedia.org/resource/IKEA,7215,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+70,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7078,Finance,http://dbpedia.org/resource/Finance_industry,1,0
+71,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7079,Finance,http://dbpedia.org/resource/Finance_industry,0,1
+72,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7080,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+73,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7081,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+74,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7082,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+75,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7083,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+76,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7084,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+77,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7085,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+78,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7086,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+79,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7087,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+80,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7088,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+81,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7089,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+82,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7090,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+83,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7091,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+84,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7092,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+85,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7093,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+86,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7094,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+87,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7095,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+88,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7096,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+89,JP Morgan,http://dbpedia.org/resource/JPMorgan_Chase,7097,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+71,VW,http://dbpedia.org/resource/Volkswagen,6793,Cars,http://dbpedia.org/resource/Automotive_industry,1,0
+72,VW,http://dbpedia.org/resource/Volkswagen,6794,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+73,VW,http://dbpedia.org/resource/Volkswagen,6795,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+74,VW,http://dbpedia.org/resource/Volkswagen,6796,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+75,VW,http://dbpedia.org/resource/Volkswagen,6797,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+76,VW,http://dbpedia.org/resource/Volkswagen,6798,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+77,VW,http://dbpedia.org/resource/Volkswagen,6799,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+78,VW,http://dbpedia.org/resource/Volkswagen,6800,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+79,VW,http://dbpedia.org/resource/Volkswagen,6801,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+80,VW,http://dbpedia.org/resource/Volkswagen,6802,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+72,Siemens,http://dbpedia.org/resource/Siemens,6741,Technology,http://dbpedia.org/resource/Technology,1,0
+73,Siemens,http://dbpedia.org/resource/Siemens,6742,Technology,http://dbpedia.org/resource/Technology,0,0
+74,Siemens,http://dbpedia.org/resource/Siemens,6743,Technology,http://dbpedia.org/resource/Technology,0,1
+75,Siemens,http://dbpedia.org/resource/Siemens,6744,Technology,http://dbpedia.org/resource/Technology,0,0
+76,Siemens,http://dbpedia.org/resource/Siemens,6745,Technology,http://dbpedia.org/resource/Technology,0,0
+77,Siemens,http://dbpedia.org/resource/Siemens,6746,Technology,http://dbpedia.org/resource/Technology,0,0
+78,Siemens,http://dbpedia.org/resource/Siemens,6747,Technology,http://dbpedia.org/resource/Technology,0,0
+79,Siemens,http://dbpedia.org/resource/Siemens,6748,Technology,http://dbpedia.org/resource/Technology,0,0
+80,Siemens,http://dbpedia.org/resource/Siemens,6749,Technology,http://dbpedia.org/resource/Technology,0,0
+81,Siemens,http://dbpedia.org/resource/Siemens,6750,Technology,http://dbpedia.org/resource/Technology,0,0
+74,Avon,http://dbpedia.org/resource/Avon_Products,6598,Personal Care,http://dbpedia.org/resource/Personal_Care,1,0
+75,Avon,http://dbpedia.org/resource/Avon_Products,6599,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+76,Avon,http://dbpedia.org/resource/Avon_Products,6600,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+77,Avon,http://dbpedia.org/resource/Avon_Products,6601,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+78,Avon,http://dbpedia.org/resource/Avon_Products,6602,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+79,Avon,http://dbpedia.org/resource/Avon_Products,6603,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+80,Avon,http://dbpedia.org/resource/Avon_Products,6604,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+81,Avon,http://dbpedia.org/resource/Avon_Products,6605,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+82,Avon,http://dbpedia.org/resource/Avon_Products,6606,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+83,Avon,http://dbpedia.org/resource/Avon_Products,6607,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+75,Chanel,http://dbpedia.org/resource/Chanel,6499,Luxury,http://dbpedia.org/resource/Luxury_good,1,1
+76,Chanel,http://dbpedia.org/resource/Chanel,6500,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+77,Chanel,http://dbpedia.org/resource/Chanel,6501,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+78,Chanel,http://dbpedia.org/resource/Chanel,6502,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+79,Chanel,http://dbpedia.org/resource/Chanel,6503,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+80,Chanel,http://dbpedia.org/resource/Chanel,6504,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+81,Chanel,http://dbpedia.org/resource/Chanel,6505,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+82,Chanel,http://dbpedia.org/resource/Chanel,6506,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+83,Chanel,http://dbpedia.org/resource/Chanel,6507,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+84,Chanel,http://dbpedia.org/resource/Chanel,6508,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+76,ING,http://dbpedia.org/resource/ING_Group,6353,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+77,ING,http://dbpedia.org/resource/ING_Group,6354,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+78,ING,http://dbpedia.org/resource/ING_Group,6355,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+79,ING,http://dbpedia.org/resource/ING_Group,6356,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+80,ING,http://dbpedia.org/resource/ING_Group,6357,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+81,ING,http://dbpedia.org/resource/ING_Group,6358,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+82,ING,http://dbpedia.org/resource/ING_Group,6359,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+83,ING,http://dbpedia.org/resource/ING_Group,6360,Bank,http://dbpedia.org/resource/Banking_industry,0,1
+84,ING,http://dbpedia.org/resource/ING_Group,6361,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+85,ING,http://dbpedia.org/resource/ING_Group,6362,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+77,Target,http://dbpedia.org/resource/Target_Corporation,6135,Retail,http://dbpedia.org/resource/Retail_industry,1,0
+78,Target,http://dbpedia.org/resource/Target_Corporation,6136,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+79,Target,http://dbpedia.org/resource/Target_Corporation,6137,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+80,Target,http://dbpedia.org/resource/Target_Corporation,6138,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+81,Target,http://dbpedia.org/resource/Target_Corporation,6139,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+82,Target,http://dbpedia.org/resource/Target_Corporation,6140,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+83,Target,http://dbpedia.org/resource/Target_Corporation,6141,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+84,Target,http://dbpedia.org/resource/Target_Corporation,6142,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+85,Target,http://dbpedia.org/resource/Target_Corporation,6143,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+86,Target,http://dbpedia.org/resource/Target_Corporation,6144,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+78,Amazon,http://dbpedia.org/resource/Amazon.com,5983,Software,http://dbpedia.org/resource/Software,1,0
+79,Amazon,http://dbpedia.org/resource/Amazon.com,5984,Software,http://dbpedia.org/resource/Software,0,0
+80,Amazon,http://dbpedia.org/resource/Amazon.com,5985,Software,http://dbpedia.org/resource/Software,0,0
+81,Amazon,http://dbpedia.org/resource/Amazon.com,5986,Software,http://dbpedia.org/resource/Software,0,0
+82,Amazon,http://dbpedia.org/resource/Amazon.com,5987,Software,http://dbpedia.org/resource/Software,0,0
+83,Amazon,http://dbpedia.org/resource/Amazon.com,5988,Software,http://dbpedia.org/resource/Software,0,0
+84,Amazon,http://dbpedia.org/resource/Amazon.com,5989,Software,http://dbpedia.org/resource/Software,0,0
+85,Amazon,http://dbpedia.org/resource/Amazon.com,5990,Software,http://dbpedia.org/resource/Software,0,0
+86,Amazon,http://dbpedia.org/resource/Amazon.com,5991,Software,http://dbpedia.org/resource/Software,0,0
+87,Amazon,http://dbpedia.org/resource/Amazon.com,5992,Software,http://dbpedia.org/resource/Software,0,0
+79,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5839,Personal Care,http://dbpedia.org/resource/Personal_Care,1,0
+80,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5840,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+81,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5841,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+82,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5842,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+83,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5843,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+84,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5844,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+85,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5845,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+86,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5846,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+87,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5847,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+88,Colgate,http://dbpedia.org/resource/Colgate-Palmolive,5848,Personal Care,http://dbpedia.org/resource/Personal_Care,0,0
+80,AIG,http://dbpedia.org/resource/American_International_Group,5665,Finance,http://dbpedia.org/resource/Finance_industry,1,0
+81,AIG,http://dbpedia.org/resource/American_International_Group,5666,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+82,AIG,http://dbpedia.org/resource/American_International_Group,5667,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+83,AIG,http://dbpedia.org/resource/American_International_Group,5668,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+84,AIG,http://dbpedia.org/resource/American_International_Group,5669,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+85,AIG,http://dbpedia.org/resource/American_International_Group,5670,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+86,AIG,http://dbpedia.org/resource/American_International_Group,5671,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+87,AIG,http://dbpedia.org/resource/American_International_Group,5672,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+88,AIG,http://dbpedia.org/resource/American_International_Group,5673,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+89,AIG,http://dbpedia.org/resource/American_International_Group,5674,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+81,Wrigley's,http://dbpedia.org/resource/Wrigley_Company,5550,F&D&T,,1,0
+82,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5548,Luxury,http://dbpedia.org/resource/Luxury_good,1,0
+83,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5549,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+84,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5550,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+85,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5551,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+86,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5552,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+87,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5553,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+88,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5554,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+89,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5555,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+90,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5556,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+91,Cartier,http://dbpedia.org/resource/Cartier_(jeweler),5557,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+83,BP,http://dbpedia.org/resource/BP,5470,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,1,0
+84,BP,http://dbpedia.org/resource/BP,5471,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,1
+85,BP,http://dbpedia.org/resource/BP,5472,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+86,BP,http://dbpedia.org/resource/BP,5473,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+87,BP,http://dbpedia.org/resource/BP,5474,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+88,BP,http://dbpedia.org/resource/BP,5475,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+89,BP,http://dbpedia.org/resource/BP,5476,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+90,BP,http://dbpedia.org/resource/BP,5477,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+91,BP,http://dbpedia.org/resource/BP,5478,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+92,BP,http://dbpedia.org/resource/BP,5479,Oil & Gas,http://dbpedia.org/resource/Oil_and_gas_industry,0,0
+84,Auchan,http://dbpedia.org/resource/Auchan,5354,Retail,http://dbpedia.org/resource/Retail_industry,1,1
+85,Auchan,http://dbpedia.org/resource/Auchan,5355,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+85,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5300,Software,http://dbpedia.org/resource/Software,1,1
+86,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5301,Software,http://dbpedia.org/resource/Software,0,0
+87,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5302,Software,http://dbpedia.org/resource/Software,0,0
+88,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5303,Software,http://dbpedia.org/resource/Software,0,0
+89,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5304,Software,http://dbpedia.org/resource/Software,0,0
+90,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5305,Software,http://dbpedia.org/resource/Software,0,0
+91,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5306,Software,http://dbpedia.org/resource/Software,0,0
+92,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5307,Software,http://dbpedia.org/resource/Software,0,0
+93,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5308,Software,http://dbpedia.org/resource/Software,0,0
+94,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5309,Software,http://dbpedia.org/resource/Software,0,0
+95,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5310,Software,http://dbpedia.org/resource/Software,0,0
+96,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5311,Software,http://dbpedia.org/resource/Software,0,0
+97,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,5312,Software,http://dbpedia.org/resource/Software,0,0
+86,Renault,http://dbpedia.org/resource/Renault,5173,Cars,http://dbpedia.org/resource/Automotive_industry,1,0
+87,Renault,http://dbpedia.org/resource/Renault,5174,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+88,Renault,http://dbpedia.org/resource/Renault,5175,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+89,Renault,http://dbpedia.org/resource/Renault,5176,Cars,http://dbpedia.org/resource/Automotive_industry,0,1
+90,Renault,http://dbpedia.org/resource/Renault,5177,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+91,Renault,http://dbpedia.org/resource/Renault,5178,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+92,Renault,http://dbpedia.org/resource/Renault,5179,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+93,Renault,http://dbpedia.org/resource/Renault,5180,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+94,Renault,http://dbpedia.org/resource/Renault,5181,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+95,Renault,http://dbpedia.org/resource/Renault,5182,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+87,Zara,http://dbpedia.org/resource/Zara_(retailer),5112,Apparel,http://dbpedia.org/resource/Apparel_industry,1,0
+88,Zara,http://dbpedia.org/resource/Zara_(retailer),5113,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+89,Zara,http://dbpedia.org/resource/Zara_(retailer),5114,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+90,Zara,http://dbpedia.org/resource/Zara_(retailer),5115,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+91,Zara,http://dbpedia.org/resource/Zara_(retailer),5116,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+92,Zara,http://dbpedia.org/resource/Zara_(retailer),5117,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+93,Zara,http://dbpedia.org/resource/Zara_(retailer),5118,Apparel,http://dbpedia.org/resource/Apparel_industry,0,1
+94,Zara,http://dbpedia.org/resource/Zara_(retailer),5119,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+95,Zara,http://dbpedia.org/resource/Zara_(retailer),5120,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+96,Zara,http://dbpedia.org/resource/Zara_(retailer),5121,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+88,Barclays,http://dbpedia.org/resource/Barclays,5070,Bank,http://dbpedia.org/resource/Banking_industry,1,1
+89,Barclays,http://dbpedia.org/resource/Barclays,5071,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+90,Barclays,http://dbpedia.org/resource/Barclays,5072,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+91,Barclays,http://dbpedia.org/resource/Barclays,5073,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+92,Barclays,http://dbpedia.org/resource/Barclays,5074,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+93,Barclays,http://dbpedia.org/resource/Barclays,5075,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+94,Barclays,http://dbpedia.org/resource/Barclays,5076,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+95,Barclays,http://dbpedia.org/resource/Barclays,5077,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+96,Barclays,http://dbpedia.org/resource/Barclays,5078,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+97,Barclays,http://dbpedia.org/resource/Barclays,5079,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+89,Lexus,http://dbpedia.org/resource/Lexus,5050,Cars,http://dbpedia.org/resource/Automotive_industry,1,1
+90,Lexus,http://dbpedia.org/resource/Lexus,5051,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+91,Lexus,http://dbpedia.org/resource/Lexus,5052,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+92,Lexus,http://dbpedia.org/resource/Lexus,5053,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+93,Lexus,http://dbpedia.org/resource/Lexus,5054,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+94,Lexus,http://dbpedia.org/resource/Lexus,5055,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+95,Lexus,http://dbpedia.org/resource/Lexus,5056,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+96,Lexus,http://dbpedia.org/resource/Lexus,5057,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+97,Lexus,http://dbpedia.org/resource/Lexus,5058,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+98,Lexus,http://dbpedia.org/resource/Lexus,5059,Cars,http://dbpedia.org/resource/Automotive_industry,0,0
+90,Rolex,http://dbpedia.org/resource/Rolex,4925,Luxury,http://dbpedia.org/resource/Luxury_good,1,1
+91,Rolex,http://dbpedia.org/resource/Rolex,4926,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+92,Rolex,http://dbpedia.org/resource/Rolex,4927,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+93,Rolex,http://dbpedia.org/resource/Rolex,4928,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+94,Rolex,http://dbpedia.org/resource/Rolex,4929,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+95,Rolex,http://dbpedia.org/resource/Rolex,4930,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+96,Rolex,http://dbpedia.org/resource/Rolex,4931,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+97,Rolex,http://dbpedia.org/resource/Rolex,4932,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+98,Rolex,http://dbpedia.org/resource/Rolex,4933,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+99,Rolex,http://dbpedia.org/resource/Rolex,4934,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+91,Allstate,http://dbpedia.org/resource/Allstate,4842,Finance,http://dbpedia.org/resource/Finance_industry,1,1
+92,Allstate,http://dbpedia.org/resource/Allstate,4843,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+93,Allstate,http://dbpedia.org/resource/Allstate,4844,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+94,Allstate,http://dbpedia.org/resource/Allstate,4845,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+95,Allstate,http://dbpedia.org/resource/Allstate,4846,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+96,Allstate,http://dbpedia.org/resource/Allstate,4847,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+97,Allstate,http://dbpedia.org/resource/Allstate,4848,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+98,Allstate,http://dbpedia.org/resource/Allstate,4849,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+99,Allstate,http://dbpedia.org/resource/Allstate,4850,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+100,Allstate,http://dbpedia.org/resource/Allstate,4851,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+92,Herm?s,http://dbpedia.org/resource/Hermès,4830,Luxury,http://dbpedia.org/resource/Luxury_good,1,0
+93,Herm?s,http://dbpedia.org/resource/Hermès,4831,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+94,Herm?s,http://dbpedia.org/resource/Hermès,4832,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+95,Herm?s,http://dbpedia.org/resource/Hermès,4833,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+96,Herm?s,http://dbpedia.org/resource/Hermès,4834,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+97,Herm?s,http://dbpedia.org/resource/Hermès,4835,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+98,Herm?s,http://dbpedia.org/resource/Hermès,4836,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+99,Herm?s,http://dbpedia.org/resource/Hermès,4837,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+93,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4747,Technology,http://dbpedia.org/resource/Technology,1,0
+94,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4748,Technology,http://dbpedia.org/resource/Technology,0,0
+95,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4749,Technology,http://dbpedia.org/resource/Technology,0,0
+96,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4750,Technology,http://dbpedia.org/resource/Technology,0,0
+97,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4751,Technology,http://dbpedia.org/resource/Technology,0,0
+98,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4752,Technology,http://dbpedia.org/resource/Technology,0,0
+99,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4753,Technology,http://dbpedia.org/resource/Technology,0,0
+100,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4754,Technology,http://dbpedia.org/resource/Technology,0,0
+101,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4755,Technology,http://dbpedia.org/resource/Technology,0,0
+102,Caterpillar,http://dbpedia.org/resource/Caterpillar_Inc.,4756,Technology,http://dbpedia.org/resource/Technology,0,0
+94,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4740,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+95,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4741,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+96,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4742,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+97,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4743,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+98,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4744,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+99,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4745,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+100,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4746,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+101,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4747,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+102,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4748,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+103,Mizuho,http://dbpedia.org/resource/Mizuho_Financial_Group,4749,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+95,WaMu,http://dbpedia.org/resource/Washington_Mutual,4686,Bank,http://dbpedia.org/resource/Banking_industry,1,0
+96,WaMu,http://dbpedia.org/resource/Washington_Mutual,4687,Bank,http://dbpedia.org/resource/Banking_industry,0,0
+96,Asda,http://dbpedia.org/resource/Asda,4650,Retail,http://dbpedia.org/resource/Retail_industry,1,1
+97,Asda,http://dbpedia.org/resource/Asda,4651,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+98,Asda,http://dbpedia.org/resource/Asda,4652,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+99,Asda,http://dbpedia.org/resource/Asda,4653,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+100,Asda,http://dbpedia.org/resource/Asda,4654,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+101,Asda,http://dbpedia.org/resource/Asda,4655,Retail,http://dbpedia.org/resource/Retail_industry,0,0
+97,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4528,Finance,http://dbpedia.org/resource/Finance_industry,1,0
+98,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4529,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+99,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4530,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+100,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4531,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+101,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4532,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+102,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4533,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+103,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4534,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+104,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4535,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+105,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4536,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+106,Mitsui Sumitomo,http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation,4537,Finance,http://dbpedia.org/resource/Finance_industry,0,0
+98,Gucci,http://dbpedia.org/resource/Gucci,4370,Luxury,http://dbpedia.org/resource/Luxury_good,1,0
+99,Gucci,http://dbpedia.org/resource/Gucci,4371,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+100,Gucci,http://dbpedia.org/resource/Gucci,4372,Luxury,http://dbpedia.org/resource/Luxury_good,0,1
+101,Gucci,http://dbpedia.org/resource/Gucci,4373,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+102,Gucci,http://dbpedia.org/resource/Gucci,4374,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+103,Gucci,http://dbpedia.org/resource/Gucci,4375,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+104,Gucci,http://dbpedia.org/resource/Gucci,4376,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+105,Gucci,http://dbpedia.org/resource/Gucci,4377,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+106,Gucci,http://dbpedia.org/resource/Gucci,4378,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+107,Gucci,http://dbpedia.org/resource/Gucci,4379,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+99,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4206,Apparel,http://dbpedia.org/resource/Apparel_industry,1,0
+100,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4207,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+101,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4208,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+102,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4209,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+103,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4210,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+104,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4211,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+105,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4212,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+106,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4213,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+107,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4214,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+108,Esprit,http://dbpedia.org/resource/Esprit_Holdings,4215,Apparel,http://dbpedia.org/resource/Apparel_industry,0,0
+100,Hennessy,http://dbpedia.org/resource/Hennessy,4191,Luxury,http://dbpedia.org/resource/Luxury_good,1,0
+101,Hennessy,http://dbpedia.org/resource/Hennessy,4192,Luxury,http://dbpedia.org/resource/Luxury_good,0,1
+102,Hennessy,http://dbpedia.org/resource/Hennessy,4193,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+103,Hennessy,http://dbpedia.org/resource/Hennessy,4194,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+104,Hennessy,http://dbpedia.org/resource/Hennessy,4195,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+105,Hennessy,http://dbpedia.org/resource/Hennessy,4196,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+106,Hennessy,http://dbpedia.org/resource/Hennessy,4197,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+107,Hennessy,http://dbpedia.org/resource/Hennessy,4198,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+108,Hennessy,http://dbpedia.org/resource/Hennessy,4199,Luxury,http://dbpedia.org/resource/Luxury_good,0,0
+109,Hennessy,http://dbpedia.org/resource/Hennessy,4200,Luxury,http://dbpedia.org/resource/Luxury_good,0,0

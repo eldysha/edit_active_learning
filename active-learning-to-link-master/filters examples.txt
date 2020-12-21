@@ -1,0 +1,49 @@
+Simple filters' examples
+(No weights considered here, always None)
+
+1) No filter
+{property: None, operator: None, value: None, threshold: None, threshold_operator: None, weight: None}
+{'==': [1,1]} -> to obtain always true // maybe not necessary(?)
+
+2) Check if the list of labels of the candidate entity contains 'milan'
+{property: 'label', operator: '==', value: 'milan', threshold: None, threshold_operator: None, weight: None}
+
+3) Check if the jaccard similarity between at least one label in the list of labels of the candidate entity and 'milan' is > 0.8
+{property: 'label', operator: 'jaccard sim', value: 'milan', threshold: 0.8, threshold_operator: '>', weight: None}
+
+4) Check if the edit distance between at least one label in the list of labels of the candidate entity and 'milan' is <= 6
+{property: 'label', operator: 'edit distance', value: 'milan', threshold: 6, threshold_operator: '<=', weight: None}
+
+5) Check if the type of the candidate entity is 'city' (single column)
+{property: 'type', operator: '==', value: 'city', threshold: None, threshold_operator: None, weight: None}
+
+6) Check if the country of the candidate entity is 'italy' (multicolumn)
+{property: 'dbo:country', operator: '==', value: 'italy', threshold: None, threshold_operator: None, weight: None}
+
+7) Check if the edit distance between the country of the candidate entity and 'italy' is <= 6 (multicolumn)
+{property: 'dbo:country', operator: 'edit distance', value: 'italy', threshold: 6, threshold_operator: '<=', weight: None}
+
+-----------------------------------------------------------------------------------------------------------------------------
+JSON FILTERS FROM THE FRONT-END
+
+1) {"AND" : [[{"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/country", "operator" : "==", "value" : "http://dbpedia.org/resource/Italy",
+                                                           "threshold" : 1, "threshold_operator" : "==", "weight" : 0.8}]},
+              {"OR" : [[{"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/region", "operator" : "==", "value" : "http://dbpedia.org/resource/Lombardy",
+                                                                    "threshold" : 1, "threshold_operator" : "==", "weight" : 0.7}]},
+                       {"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/region", "operator" : "edit distance", "value" : "http://dbpedia.org/resource/Lombardy",
+                                                                    "threshold" : 0.6, "threshold_operator" : ">=", "weight" : 0.6}]}]]
+              }
+             ]]
+   }
+
+JSON INPUT USER
+
+1) """{"Milan" : [{"AND" : [[{"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/country", "operator" : "==", "value" : "http://dbpedia.org/resource/Italy",
+                                                           "threshold" : 1, "threshold_operator" : "==", "weight" : 0.8}]},
+              {"OR" : [[{"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/region", "operator" : "==", "value" : "http://dbpedia.org/resource/Lombardy",
+                                                                    "threshold" : 1, "threshold_operator" : "==", "weight" : 0.7}]},
+                       {"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/region", "operator" : "edit distance", "value" : "http://dbpedia.org/resource/Lombardy",
+                                                                    "threshold" : 0.6, "threshold_operator" : ">=", "weight" : 0.6}]}]]
+              }
+             ]]}, 3], "Paris" : [{"OR" : [[{"property filter" : [{"var" : "candidate"}, {"property" : "http://dbpedia.org/ontology/location", "operator" : "==", "value" : "http://dbpedia.org/resource/Luxembourg",
+                                                           "threshold" : 1, "threshold_operator" : "==", "weight" : 0.8}]}]]}, 1]}"""

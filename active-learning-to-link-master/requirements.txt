@@ -1,0 +1,6 @@
+SPARQLWrapper
+editdistance
+distance
+pandas~=1.0.3
+elasticsearch~=7.6.0
+elasticsearch-dsl>=7.0.0,<8.0.0
